@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+State/node_modules
+Lists/node_modules
 
 # testing
 /coverage
