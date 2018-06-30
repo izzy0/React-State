@@ -2,8 +2,8 @@
 
 # dependencies
 /node_modules
-State/node_modules
-Lists/node_modules
+1.State/node_modules
+2.Lists/node_modules
 
 # testing
 /coverage
