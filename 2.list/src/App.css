@@ -1,5 +1,7 @@
 .App {
+  font-family: Arial;
   text-align: center;
+  margin: 50px auto;
 }
 
 .App-logo {
@@ -25,4 +27,9 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.CharList{
+  margin: auto;
+  padding: 10px 80px;
 }

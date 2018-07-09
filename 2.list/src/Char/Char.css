@@ -1,0 +1,16 @@
+.Char{
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    border: 1px solid #eee;
+    display:inline-block;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    cursor: pointer;
+    animation: char-spin .5s linear;
+}
+
+@keyframes char-spin {
+    from { transform: rotate(270deg); }
+    to { transform: rotate(360deg); }
+  }
